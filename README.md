@@ -52,7 +52,7 @@ If something **can** run faster, cleaner, smarter — I will rebuild it until it
 
 <table>
 <tr><td><strong>Core Development</strong></td><td>PHP, C#</td></tr>
-<tr><td><strong>Game Engineering</strong></td><td>SAMP, RageMP, CEF, Modding Architectures</td></tr>
+<tr><td><strong>Game Engineering</strong></td><td>SA:MP/OpenMP, RageMP, FiveM, CEF, Modding Architectures, Unity, UE5</td></tr>
 <tr><td><strong>Low-level Systems</strong></td><td>C/C++, Memory Work, Performance Tuning</td></tr>
 <tr><td><strong>Interface & Front-End</strong></td><td>HTML, CSS, JS, WPF, CEF UI Bridges</td></tr>
 </table>
@@ -70,9 +70,6 @@ Building silently. Releasing loudly.
 <li>Reverse engineering + performance-tight system tuning</li>
 <li>Live data handling, async pipelines, socket-driven systems</li>
 </ul>
-
-You won’t find toy repositories here.  
-Only things with bite.
 
 ---
 
