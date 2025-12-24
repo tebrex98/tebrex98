@@ -20,13 +20,13 @@
     <tspan fill="#000000"> </tspan> <!-- razmak -->
 
     <!-- Druga reč "Giggity" -->
-    <tspan fill="#f05133">G</tspan>
-    <tspan fill="#f05133">i</tspan>
-    <tspan fill="#f05133">g</tspan>
-    <tspan fill="#38bdf8">g</tspan>
+    <tspan fill="#38bdf8">G</tspan>
     <tspan fill="#38bdf8">i</tspan>
-    <tspan fill="#38bdf8">t</tspan>
-    <tspan fill="#f05133">y</tspan>
+    <tspan fill="#38bdf8">g</tspan>
+    <tspan fill="#f05133">g</tspan>
+    <tspan fill="#f05133">i</tspan>
+    <tspan fill="#f05133">t</tspan>
+    <tspan fill="#38bdf8">y</tspan>
 
   </text>
 </svg>
