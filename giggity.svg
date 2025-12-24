@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
-  <text x="0" y="52" font-size="52" font-family="Arial Black, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <!-- Prvi red: "Welcome to my" -->
+  <text x="50%" y="50" font-size="50" font-family="Arial Black, Arial, sans-serif" fill="#000000" text-anchor="middle">
+    Welcome to my
+  </text>
 
-    <!-- Normalni tekst -->
-    <tspan fill="#000000">Welcome to my </tspan>
+  <!-- Drugi red: "Giggity Giggity" sa bojama po slovima -->
+  <text x="50%" y="110" font-size="52" font-family="Arial Black, Arial, sans-serif" text-anchor="middle">
 
-    <!-- Giggity Giggity sa bojama po slovima -->
     <!-- Prva reč "Giggity" -->
     <tspan fill="#f05133">G</tspan>
     <tspan fill="#f05133">i</tspan>
@@ -16,7 +18,7 @@
     
     <tspan fill="#000000"> </tspan> <!-- razmak -->
 
-    <!-- Druga reč "Giggity" (isti pattern) -->
+    <!-- Druga reč "Giggity" -->
     <tspan fill="#f05133">G</tspan>
     <tspan fill="#f05133">i</tspan>
     <tspan fill="#f05133">g</tspan>
