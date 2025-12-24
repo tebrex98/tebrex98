@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center" style="font-size:42px; font-weight:900;">
 <img src="https://i.ibb.co/3mqP9gwK/family-guy-glenn-quagmire-animated-custom-cursor-ezgif-com-crop.gif" alt="Quagmire GIF" style="height:50px; vertical-align:middle;"/>
-<img src="git.svg" height="50" />
+<img src="giggity.svg" height="50" />
 <img src="https://i.ibb.co/s9kCryMn/family-guy-glenn-quagmire-animated-custom-cursor-ezgif-com-rotate.gif" alt="Quagmire GIF" style="height:50px; vertical-align:middle;"/>
 </h1>
 
