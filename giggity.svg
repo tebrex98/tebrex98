@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
   <!-- Prvi red: "Welcome to my" -->
-  <text x="50%" y="50" font-size="50" font-family="Arial Black, Arial, sans-serif" fill="#000000" text-anchor="middle">
+  <text x="50%" y="50" font-size="50" font-family="Arial Black, Arial, sans-serif" text-anchor="middle">
     Welcome to my
   </text>
 
