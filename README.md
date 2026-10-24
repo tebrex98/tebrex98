@@ -103,6 +103,7 @@ Need code that hits like a hammer?
 Reach out — no small talk, just real work.
 
 <strong>Email:</strong> ste*****************8@gmail.com <br>
-<strong>Discord:</strong> @tebrex98
+<strong>Discord:</strong> @tebrex98 <br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0D529F4L8)
 
 ---
